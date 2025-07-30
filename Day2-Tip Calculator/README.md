@@ -27,7 +27,7 @@ How many people to split the bill? 3
 Each person should pay: $44.85
 
 🔗 GitHub Link
-
+Day2-Tip Calculator
 ✍️ Notes & Reflections
 I learned how Python handles different data types and why converting between them is crucial for user input. Understanding f-strings made formatting cleaner and more intuitive.
 
